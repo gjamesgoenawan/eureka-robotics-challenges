@@ -9,6 +9,6 @@ http://www.osrobotics.org/osr/planning/path_planning.html
 Exercise 2) "Post-processing a 2D path" at the page:
 https://osrobotics.org/osr/planning/post_processing.html
 
-For each solution, I provided a `.py` and `.ipynb` file for better readability. However in my installation of python (Ubuntu 20.04), I was having trouble with PyLab plotting outside Jupyter Notebook, hence the plotting functionality on the `.py` fils is disabled.
+For each solution, I provided a `.py` and `.ipynb` file for better readability. However in my installation of python (Ubuntu 20.04), I was having trouble with PyLab plotting outside Jupyter Notebook, hence the plotting functionality on the `.py` file is disabled.
 
 For further question, please email me at GABR0022@e.ntu.edu.sg.
